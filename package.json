@@ -1,0 +1,9 @@
+{
+  "name": "commercialbuildingcleaningpeoria",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static lead-generation microsite with Vercel serverless API functions for CRM lead submission.",
+  "engines": {
+    "node": ">=18"
+  }
+}

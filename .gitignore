@@ -1,0 +1,15 @@
+# Secrets — never commit
+.env
+.env.local
+.env.*.local
+
+# Python build artifacts
+__pycache__/
+*.pyc
+
+# Build/packaging output
+dist/
+
+# OS/editor cruft
+.DS_Store
+*.swp
