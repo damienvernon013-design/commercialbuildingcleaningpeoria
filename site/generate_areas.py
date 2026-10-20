@@ -32,7 +32,7 @@ def build():
 <p>Every town page links to the specific services we run there, but the core offering is consistent across the territory: common-area and lobby cleaning, multi-tenant restroom programs, and day porter coverage where a building's traffic pattern justifies it. What changes by town isn't the service menu, it's how each service gets scoped to the building stock and seasonal conditions specific to that area.</p>
 
 <h2>Not Sure If Your Building Qualifies?</h2>
-<p>Don't see your building's area listed, or not sure if you're inside the service radius? <a href="/request-a-quote/">Request a quote</a> and we'll confirm coverage before you commit to anything.</p>
+<p>Don't see your building's area listed, or not sure if you're inside the service radius? <a href="https://teamleadgeneration.com/contact/">Request a quote</a> and we'll confirm coverage before you commit to anything.</p>
 """
     path = "/service-areas/"
     write_page(path, page(
@@ -85,10 +85,10 @@ def build():
 <h2>Services Available in {name}</h2>
 <div class="town-grid">
 {children_html}</div>
-<p>Need day porter coverage for a {name} property? See our <a href="/services/day-porter-services/">day porter services overview</a> or <a href="/request-a-quote/">request a quote</a> and we'll scope it to your building.</p>
+<p>Need day porter coverage for a {name} property? See our <a href="/services/day-porter-services/">day porter services overview</a> or <a href="https://teamleadgeneration.com/contact/">request a quote</a> and we'll scope it to your building.</p>
 
 <h2>Getting a Quote for Your {name} Building</h2>
-<p>Pricing depends on your building's square footage, tenant mix, and the services you need. We don't quote a flat rate for {name} because it wouldn't reflect the difference between, say, a single-story medical suite and a multi-tenant office building. <a href="/request-a-quote/">Request a written quote</a> or call {PHONE} to discuss coverage for your specific property.</p>
+<p>Pricing depends on your building's square footage, tenant mix, and the services you need. We don't quote a flat rate for {name} because it wouldn't reflect the difference between, say, a single-story medical suite and a multi-tenant office building. <a href="https://teamleadgeneration.com/contact/">Request a written quote</a> or call {PHONE} to discuss coverage for your specific property.</p>
 
 <h2>Response Time for {name} Buildings</h2>
 <p>Our office hours are {HOURS}. Requests for {name} properties submitted during or outside those hours get a response the next business day, the same commitment we hold across every part of our service area.{TOWN_PAD.get(slug, "")}</p>
@@ -140,9 +140,9 @@ def build():
 <p>Crews servicing {name} buildings carry insurance coverage appropriate for commercial cleaning operations, with a certificate of insurance included on every written quote. Our office hours are {HOURS}, and requests for {name} properties get a response the next business day regardless of when they're submitted, the same commitment we hold across every building in our service area.{extra_line}</p>
 
 <h2>Getting This Scoped for Your Building</h2>
-<p>Every {name} building is different, and the scenario above may not match your property exactly. That's the point: we scope service to what your building actually needs after a walkthrough, not from a fixed regional template. <a href="/request-a-quote/">Request a free quote</a> and we'll put together a written scope specific to your address.{SCENARIO_PAD.get((slug, svc_slug), "")}</p>
+<p>Every {name} building is different, and the scenario above may not match your property exactly. That's the point: we scope service to what your building actually needs after a walkthrough, not from a fixed regional template. <a href="https://teamleadgeneration.com/contact/">Request a free quote</a> and we'll put together a written scope specific to your address.{SCENARIO_PAD.get((slug, svc_slug), "")}</p>
 
-<p><a class="btn-primary" href="/request-a-quote/">Request a Free Quote</a></p>
+<p><a class="btn-primary" href="https://teamleadgeneration.com/contact/">Request a Free Quote</a></p>
 
 <div class="related-links">
 <h3>Related</h3>

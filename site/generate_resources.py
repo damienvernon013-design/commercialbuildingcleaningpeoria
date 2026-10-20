@@ -39,7 +39,7 @@ def build(core_page):
 
 <h2>A Practical Starting Point</h2>
 <p>If you're building a CAM cleaning budget for the first time or resetting one after a vendor change, start with a written, itemized quote broken out by service and frequency, ask your vendor directly whether seasonal variation is priced in or billed separately, and keep documentation of any mid-year scope changes so next year's reconciliation doesn't blindside your tenants.</p>
-<p>If you manage a building in the Peoria, Arizona area and want an itemized quote to work from, <a href="/request-a-quote/">request a written scope of work</a> broken out by service line.</p>
+<p>If you manage a building in the Peoria, Arizona area and want an itemized quote to work from, <a href="https://teamleadgeneration.com/contact/">request a written scope of work</a> broken out by service line.</p>
 """,
     )
 
@@ -78,7 +78,7 @@ def build(core_page):
 <h2>Building a Complaint Log That Actually Gets Used</h2>
 <p>A complaint log only helps if it's simple enough that you'll actually maintain it during a busy week. A basic spreadsheet with five columns, date, tenant, tier, description, and resolution date, is enough to spot patterns without becoming its own administrative burden. Review it monthly, not just when a new complaint comes in, so you catch a slow-building pattern (three restroom complaints from the same floor over six weeks, for instance) before it becomes a single dramatic one.</p>
 
-<p>If you're evaluating cleaning coverage for a building in the Peoria, Arizona area, <a href="/our-process/">see how we structure response-time commitments</a> or <a href="/request-a-quote/">request a written scope of work</a> to start from.</p>
+<p>If you're evaluating cleaning coverage for a building in the Peoria, Arizona area, <a href="/our-process/">see how we structure response-time commitments</a> or <a href="https://teamleadgeneration.com/contact/">request a written scope of work</a> to start from.</p>
 """,
     )
 
@@ -114,7 +114,7 @@ def build(core_page):
 <p>Day porter coverage is priced by hours of on-site time, which makes it straightforward to scale up or down as needs change, unlike a night-crew contract that's often quoted as a flat monthly rate regardless of actual visit length. If your building's traffic is seasonal, such as a property near a stadium or event venue, quoting day porter hours seasonally rather than year-round can capture the benefit during peak periods without paying for unused coverage the rest of the year.</p>
 
 <p>Whichever model fits your building, get it in writing. A scope of work that specifies exactly what's covered during which hours protects you from the ambiguity that leads to tenant complaints about "the cleaning crew" without either party being clear on what was actually contracted.</p>
-<p>To scope either model, or a combination, for a building in the Peoria, Arizona area, see our <a href="/services/day-porter-services/">day porter services page</a> or <a href="/request-a-quote/">request a written quote</a>.</p>
+<p>To scope either model, or a combination, for a building in the Peoria, Arizona area, see our <a href="/services/day-porter-services/">day porter services page</a> or <a href="https://teamleadgeneration.com/contact/">request a written quote</a>.</p>
 """,
     )
 
@@ -152,7 +152,7 @@ def build(core_page):
 <h2>Adjusting Standards as Conditions Change</h2>
 <p>A standard written for your building's conditions at lease-up may not fit five years later if the tenant mix or traffic pattern has shifted. Revisit your written standard whenever a significant change occurs, a new medical tenant, a shift toward heavier foot traffic, or a change in building hours, rather than assuming the original document still reflects what the building actually needs.</p>
 
-<p>If you're building or revising a scope of work for a building in the Peoria, Arizona area, we write scope language at this level of specificity into every written quote. <a href="/request-a-quote/">Request a quote</a> to see a sample.</p>
+<p>If you're building or revising a scope of work for a building in the Peoria, Arizona area, we write scope language at this level of specificity into every written quote. <a href="https://teamleadgeneration.com/contact/">Request a quote</a> to see a sample.</p>
 
 <h2>A Quick Self-Audit</h2>
 <p>Pull up your current cleaning contract or scope of work and check it against the four elements above: task specificity, frequency, result standard, and verification. If any area of your building's common-area or restroom scope is missing one of these, that's the gap most likely to surface as an unresolved dispute the next time a tenant complains or an auditor asks a pointed question.</p>
@@ -191,7 +191,7 @@ def build(core_page):
 
 <h2>Getting an Accurate Quote</h2>
 <p>Because these variables shift the number so much, a defensible quote for a Peoria-area commercial building comes from a written scope based on your specific property, not a flat regional rate. When comparing quotes, ask each vendor to break out pricing by service line, common area, restroom program, day porter, so you can see where the cost is actually coming from rather than comparing opaque bottom-line numbers.</p>
-<p>Peoria Building Cleaning Co doesn't publish a flat per-square-foot rate because it wouldn't reflect what your building actually needs. <a href="/request-a-quote/">Request a written quote</a> and we'll scope pricing to your property's actual layout, tenant mix, and traffic pattern.</p>
+<p>Peoria Building Cleaning Co doesn't publish a flat per-square-foot rate because it wouldn't reflect what your building actually needs. <a href="https://teamleadgeneration.com/contact/">Request a written quote</a> and we'll scope pricing to your property's actual layout, tenant mix, and traffic pattern.</p>
 
 <h2>Questions Worth Asking Before You Sign</h2>
 <p>Before committing to a vendor, ask directly how they price seasonal variation, whether day porter hours are billed separately from after-hours cleaning, and how they handle a scope change mid-contract if your tenant mix shifts. A vendor who answers these clearly and puts the answer in writing is easier to hold accountable a year from now than one who leaves pricing mechanics implicit.</p>

@@ -69,6 +69,23 @@ CRM**, because that's the only UTM field the CRM-QM API's `push_lead` payload do
 function and available if the CRM payload shape is ever extended, but are currently dropped
 before the CRM call rather than silently invented into fields the API doesn't define.
 
+## CTA destination: external contact page
+
+As of 2026-10-21 every CTA and "request a quote" link across all 43 pages (header button,
+`btn-primary` buttons, footer link, inline text links) points to
+`https://teamleadgeneration.com/contact/` instead of the on-site `/request-a-quote/` page.
+The change was made in the generator sources (`build.py`, `generate_*.py`) and the pages were
+regenerated. `tel:` links are unchanged.
+
+Consequences to be aware of:
+
+- The on-site form pages (`/request-a-quote/`, `/contact/`) and the `/api/submit-lead`
+  CRM flow still exist and still work, but no CTA links to `/request-a-quote/` any more.
+  Remove or redirect that page if the on-site form is being retired.
+- This is an outbound link to another domain. It was an explicit client instruction and
+  teamleadgeneration.com is assumed not to be one of the 60 portfolio domains; confirm that
+  against the portfolio's no-cross-linking rule.
+
 ## Required setup before this goes live
 
 **One manual step is required in the Vercel dashboard — this was not and cannot be done from

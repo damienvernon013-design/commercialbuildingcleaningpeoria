@@ -72,6 +72,10 @@ overwritten the next time someone regenerates. Edit the generator source instead
 
 ## Content rules inherited from the portfolio build (still apply to any future edits)
 
+- **CTA destination:** every CTA / "request a quote" link points to
+  `https://teamleadgeneration.com/contact/` (client instruction, 2026-10-21), not the
+  on-site `/request-a-quote/` page. Keep new CTAs pointing there. This is the one deliberate
+  outbound link; the rule below about other portfolio domains still applies.
 - No street address anywhere (copy, footer, schema). Service-area language only.
 - No `Review`/`AggregateRating` schema, no testimonials, no star ratings — this is a portfolio-
   wide FTC Consumer Review Rule compliance decision, not a stylistic one. Don't add "sample"

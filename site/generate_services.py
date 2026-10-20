@@ -25,7 +25,7 @@ def build(core_page):
 <h2>Who This Suits</h2>
 <p>Office buildings, medical buildings, and mixed-use properties with shared entry points and common areas used by multiple tenants. If your building is single-tenant with no shared common area, day porter or a standalone restroom program may be a better fit.</p>
 <h2>Honest Pricing</h2>
-<p>Pricing depends on square footage, floor type, and frequency. See our <a href="/pricing/">pricing page</a> or <a href="/request-a-quote/">request a written quote</a> for your building.</p>
+<p>Pricing depends on square footage, floor type, and frequency. See our <a href="/pricing/">pricing page</a> or <a href="https://teamleadgeneration.com/contact/">request a written quote</a> for your building.</p>
 <h2>Why This Is the Highest-Visibility Service in Your Building</h2>
 <p>A tenant, visitor, or prospective lease forms an impression of your building within seconds of walking through the entrance. Streaked glass, a dull lobby floor, or a stairwell that hasn't been swept in days signals neglect regardless of how well the rest of the building is maintained. Because common areas are shared, they also tend to be the space where responsibility is least clearly owned, which is exactly where a scheduled, documented service catches problems a reactive approach misses.</p>
 <h2>How We Scope This for Your Building</h2>
@@ -33,7 +33,7 @@ def build(core_page):
 <h2>Who This Suits</h2>
 <p>Office buildings, medical buildings, and mixed-use properties with shared entry points and common areas used by multiple tenants. If your building is single-tenant with no shared common area, day porter or a standalone restroom program may be a better fit.</p>
 <h2>Honest Pricing</h2>
-<p>Pricing depends on square footage, floor type, and frequency. See our <a href="/pricing/">pricing page</a> or <a href="/request-a-quote/">request a written quote</a> for your building.</p>
+<p>Pricing depends on square footage, floor type, and frequency. See our <a href="/pricing/">pricing page</a> or <a href="https://teamleadgeneration.com/contact/">request a written quote</a> for your building.</p>
 <h2>Surface-Specific Care</h2>
 <p>Polished concrete, natural stone, tile, and carpet each need a different cleaning approach, and using the wrong product or technique on the wrong surface accelerates wear rather than preventing it. Newer buildings in areas like Surprise, built with polished concrete and glass, need a different floor-care protocol than the tile and carpet common in older Sun City-area buildings. We match technique to surface rather than running one generic process across every property.</p>
 <h2>Seasonal Adjustments</h2>
@@ -63,7 +63,7 @@ def build(core_page):
 <h2>Who This Suits</h2>
 <p>Multi-tenant office buildings, medical office buildings, and mixed-use properties with shared restroom facilities. This runs as a standalone service or combined with common-area cleaning and day porter coverage.</p>
 <h2>Honest Pricing</h2>
-<p>Pricing varies by fixture count, tenant mix, and frequency. See our <a href="/pricing/">pricing page</a> or <a href="/request-a-quote/">request a written quote</a>.</p>
+<p>Pricing varies by fixture count, tenant mix, and frequency. See our <a href="/pricing/">pricing page</a> or <a href="https://teamleadgeneration.com/contact/">request a written quote</a>.</p>
 <h2>Why This Runs on a Different Standard Than a Single-Office Restroom</h2>
 <p>A restroom shared across several tenants sees traffic patterns a single office never does: back-to-back use during business hours, higher supply consumption, and a wider range of expectations from tenants who each notice different things. What one tenant considers an acceptable supply level, another considers a running-out problem, and in a shared facility, that judgment gets made by every tenant using it, not just one. That's why the program runs on a documented schedule with logged supply checks rather than a "restock when someone notices" approach.</p>
 <h2>How We Scope This for Your Building</h2>
@@ -71,7 +71,7 @@ def build(core_page):
 <h2>Who This Suits</h2>
 <p>Multi-tenant office buildings, medical office buildings, and mixed-use properties with shared restroom facilities. This runs as a standalone service or combined with common-area cleaning and day porter coverage.</p>
 <h2>Honest Pricing</h2>
-<p>Pricing varies by fixture count, tenant mix, and frequency. See our <a href="/pricing/">pricing page</a> or <a href="/request-a-quote/">request a written quote</a>.</p>
+<p>Pricing varies by fixture count, tenant mix, and frequency. See our <a href="/pricing/">pricing page</a> or <a href="https://teamleadgeneration.com/contact/">request a written quote</a>.</p>
 <h2>Documentation for Healthcare and Compliance-Sensitive Tenants</h2>
 <p>Buildings with medical or healthcare tenants often need documentation of restroom disinfection for their own compliance records, not just a clean appearance. We log supply checks and disinfection passes on every visit for buildings that need that documentation, so a property manager or tenant can point to a written record rather than relying on visual inspection alone, which matters if a compliance question ever comes up.</p>
 <h2>ADA and Accessibility Considerations</h2>
@@ -101,7 +101,7 @@ def build(core_page):
 <h2>Who This Suits</h2>
 <p>Larger multi-tenant buildings, properties near high-traffic venues, and buildings where after-hours cleaning alone leaves gaps during business hours. Smaller single-tenant buildings usually don't need dedicated day porter coverage.</p>
 <h2>Honest Pricing</h2>
-<p>Day porter coverage is quoted separately from after-hours cleaning, based on hours of coverage needed. See our <a href="/pricing/">pricing page</a> or <a href="/request-a-quote/">request a written quote</a>.</p>
+<p>Day porter coverage is quoted separately from after-hours cleaning, based on hours of coverage needed. See our <a href="/pricing/">pricing page</a> or <a href="https://teamleadgeneration.com/contact/">request a written quote</a>.</p>
 <h2>The Gap This Closes</h2>
 <p>Standard after-hours cleaning resets your building overnight, but that reset reflects conditions at the end of the previous business day, not conditions as they develop during the current one. A spill at mid-morning, a restroom that runs low by early afternoon, or a lobby that picks up dust after a midday windstorm sits unaddressed until the next scheduled visit unless someone is on-site to catch it. Day porter coverage is that someone.</p>
 <h2>How We Scope This for Your Building</h2>
@@ -109,7 +109,7 @@ def build(core_page):
 <h2>Who This Suits</h2>
 <p>Larger multi-tenant buildings, properties near high-traffic venues, and buildings where after-hours cleaning alone leaves gaps during business hours. Smaller single-tenant buildings usually don't need dedicated day porter coverage.</p>
 <h2>Honest Pricing</h2>
-<p>Day porter coverage is quoted separately from after-hours cleaning, based on hours of coverage needed. See our <a href="/pricing/">pricing page</a> or <a href="/request-a-quote/">request a written quote</a>.</p>
+<p>Day porter coverage is quoted separately from after-hours cleaning, based on hours of coverage needed. See our <a href="/pricing/">pricing page</a> or <a href="https://teamleadgeneration.com/contact/">request a written quote</a>.</p>
 <h2>Coordinating Day Porter With Your Building's Existing Staff</h2>
 <p>If your building already has an on-site engineer or maintenance staff, day porter coverage is scoped to complement that role, not duplicate it. We coordinate directly with your building's existing team on responsibilities so common-area cleaning tasks and facilities-maintenance tasks stay clearly separated, which avoids the confusion and duplicated effort that comes from two people assuming the other is already handling something.</p>
 <h2>When Seasonal Coverage Makes Sense</h2>

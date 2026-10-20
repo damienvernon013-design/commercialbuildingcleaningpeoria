@@ -94,7 +94,7 @@ def header_nav():
   <div class="container header-main">
     <div class="brand"><a href="/">{BRAND}</a></div>
     <div class="header-phone"><a href="tel:{PHONE_TEL}">{PHONE}</a></div>
-    <a class="header-cta" href="/request-a-quote/">Request a Free Quote</a>
+    <a class="header-cta" href="https://teamleadgeneration.com/contact/">Request a Free Quote</a>
   </div>
   <nav class="primary-nav" aria-label="Main navigation">
     <div class="container">
@@ -150,7 +150,7 @@ def footer():
           <li><a href="tel:{PHONE_TEL}">{PHONE}</a></li>
           <li><a href="mailto:{EMAIL}">{EMAIL}</a></li>
           <li>{HOURS}</li>
-          <li><a href="/request-a-quote/">Request a Quote</a></li>
+          <li><a href="https://teamleadgeneration.com/contact/">Request a Quote</a></li>
         </ul>
       </div>
     </div>

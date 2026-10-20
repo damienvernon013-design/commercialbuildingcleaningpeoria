@@ -23,7 +23,7 @@ Free quote, next-business-day response.
 </p>
 
 <div class="hero-actions" style="margin-bottom:32px;">
-  <a class="btn-primary" href="/request-a-quote/">Request a Free Quote</a>
+  <a class="btn-primary" href="https://teamleadgeneration.com/contact/">Request a Free Quote</a>
   <a class="btn-secondary" href="tel:{PHONE_TEL}">Call {PHONE}</a>
 </div>
 
@@ -77,7 +77,7 @@ home_body += """</div>
 <h2>What Makes This Market Different</h2>
 <p>The Peoria area sits within the West Valley's broader commercial corridor, where building stock ranges from newer glass-and-concrete construction near Loop 101 and Loop 303 to older, single-story medical buildings in the age-restricted communities of Sun City and Sun City West. A vendor who treats every building the same, applying a downtown-office cleaning template to a Sun City medical suite or ignoring the dust exposure a Waddell building near White Tank Mountain Regional Park actually deals with, ends up either overcharging for coverage a building doesn't need or under-delivering on the coverage it does.</p>
 
-<p>Ready to see pricing for your building? <a href="/request-a-quote/">Request a free quote</a> or call {PHONE} during our {HOURS} hours.</p>
+<p>Ready to see pricing for your building? <a href="https://teamleadgeneration.com/contact/">Request a free quote</a> or call {PHONE} during our {HOURS} hours.</p>
 """
 canonical = "/"
 title = "Commercial Building Cleaning Peoria, AZ | Free Quote Same Day"
@@ -108,7 +108,7 @@ core_page(
 <p>Every engagement starts with a walkthrough of your property, not a phone-quoted number based on square footage alone. From there we put together a written scope of work covering exactly what's included, at what frequency, and what our response-time commitment is. That document becomes the reference point for both sides for the life of the engagement, which matters when a tenant complaint or a CAM reconciliation question comes up months later.</p>
 <h2>Who We Work With</h2>
 <p>Our clients are property managers overseeing single buildings or small portfolios, building engineers responsible for day-to-day facility condition, and REIT asset managers who need consistent, documented service across properties in this market without managing each vendor relationship individually. If that describes your role, our process is built around the accountability and documentation your position requires.</p>
-<p>For a written quote or to discuss coverage for your property, use our <a href="/request-a-quote/">quote request form</a> or call {PHONE}.</p>
+<p>For a written quote or to discuss coverage for your property, use our <a href="https://teamleadgeneration.com/contact/">quote request form</a> or call {PHONE}.</p>
 """,
 )
 
@@ -126,7 +126,7 @@ core_page(
 <li><strong>Hours:</strong> {HOURS}</li>
 <li><strong>Service area:</strong> Peoria, AZ and surrounding West Valley communities within a 25-mile radius</li>
 </ul>
-<p>Because our office hours run {HOURS}, calls and emails received outside those hours get a callback the next business day. If you need a written quote, the fastest route is our <a href="/request-a-quote/">quote request form</a>.</p>
+<p>Because our office hours run {HOURS}, calls and emails received outside those hours get a callback the next business day. If you need a written quote, the fastest route is our <a href="https://teamleadgeneration.com/contact/">quote request form</a>.</p>
 <h2>What to Have Ready</h2>
 <p>If you're calling or emailing about a new property, having your building's approximate square footage, tenant count, and current cleaning arrangement (if any) ready speeds up the first conversation. If you're an existing client with a service issue, having the date and specific location of the issue helps us route it to the right crew immediately rather than spending the first exchange gathering details.</p>
 <h2>Existing Clients</h2>
@@ -180,12 +180,12 @@ core_page(
 <li><strong>Day porter coverage.</strong> On-site daytime staffing is quoted separately from after-hours cleaning.</li>
 </ul>
 <h2>Getting an Accurate Number</h2>
-<p>Pricing varies by square footage, space type, and frequency. The most accurate way to get a number for your property is a written quote based on your building's actual scope. <a href="/request-a-quote/">Request a written quote</a> and we'll follow up with pricing matched to your property, not a generic range that doesn't reflect what you actually need.</p>
+<p>Pricing varies by square footage, space type, and frequency. The most accurate way to get a number for your property is a written quote based on your building's actual scope. <a href="https://teamleadgeneration.com/contact/">Request a written quote</a> and we'll follow up with pricing matched to your property, not a generic range that doesn't reflect what you actually need.</p>
 <h2>Why We Don't Publish a Flat Rate</h2>
 <p>A single-tenant office building with one shared lobby costs less to service than a multi-tenant building at the same square footage with several shared restroom cores and higher common-area traffic. A per-square-foot number that ignores that difference either overcharges the simpler building or undercharges the more complex one, and neither outcome serves you. Instead, every quote is built from your building's actual layout and tenant mix.</p>
 <h2>What to Have Ready When You Ask for a Quote</h2>
 <p>To get an accurate number quickly, have your building's approximate square footage, tenant count, current restroom core count, and any known scheduling constraints ready. If you have an existing cleaning contract, having that scope on hand helps us identify gaps or overlaps rather than starting from zero.</p>
-<p>See our <a href="/resources/building-cleaning-cost/">detailed guide to what drives cleaning costs in the Peoria market</a> for a deeper look at the variables, or <a href="/request-a-quote/">request a quote</a> now.</p>
+<p>See our <a href="/resources/building-cleaning-cost/">detailed guide to what drives cleaning costs in the Peoria market</a> for a deeper look at the variables, or <a href="https://teamleadgeneration.com/contact/">request a quote</a> now.</p>
 """,
 )
 
@@ -335,7 +335,7 @@ services_hub_body += f"""</div>
 <h2>Insured and Documented</h2>
 <p>Every service line runs under insurance coverage appropriate for commercial cleaning operations, with a certificate of insurance included on every written quote. See our <a href="/insured-and-bonded/">insured and bonded page</a> for details, or our <a href="/our-process/">process page</a> for how a new engagement moves from walkthrough to first clean.</p>
 
-<p>Not sure which combination fits your building? <a href="/request-a-quote/">Request a quote</a> and we'll help you scope it, or browse services by <a href="/service-areas/">service area</a>.</p>
+<p>Not sure which combination fits your building? <a href="https://teamleadgeneration.com/contact/">Request a quote</a> and we'll help you scope it, or browse services by <a href="/service-areas/">service area</a>.</p>
 """
 core_page(
     "/services/",
